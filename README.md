@@ -47,7 +47,7 @@ https://github.com/dfigus/hassio-addons-beta
 ![Supports amd64 Architecture][tvheadend-amd64-shield]
 ![Supports i386 Architecture][tvheadend-i386-shield]
 
-TV streaming server and recorder.
+TV streaming server and recorder
 
 [:books: TVHeadend add-on documentation][addon-doc-tvheadend]
 
