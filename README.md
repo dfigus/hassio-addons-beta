@@ -139,9 +139,9 @@ SOFTWARE.
 [tvheadend-version-shield]: https://img.shields.io/badge/version-v6.0.2-blue.svg
 [tvheadend-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tvheadend-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[tvheadend-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[tvheadend-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [tvheadend-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[tvheadend-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[tvheadend-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [dfigus]: https://github.com/dfigus
 [issue]: https://github.com/dfigus/hassio-addons-beta/issues
 [license-shield]: https://img.shields.io/github/license/dfigus/hassio-addons-beta.svg
