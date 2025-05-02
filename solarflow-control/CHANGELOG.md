@@ -1,6 +1,5 @@
 ## What’s changed
 
-## 🐛 Bug fixes
+## ⬆️ Dependency updates
 
-- Fix missing COPY command in Dockerfile to include the forked repo @dfigus (#62)
-- Fixes and translations for handling the forked repository @dfigus (#63)
+- Bump solarflow-control fork @dfigus (#64)
